@@ -38,7 +38,6 @@ Hola soy Victor Aguilar soy backend developer y me gusta programar y bailar.
 <code><img alt="JavaScript" height="30px" src="./images/js-icon.png"  /></code>
 <code><img alt="Python" height="30px" src="./images/python-icon.png" /></code>
 <code><img alt="Backend Things" height="30px" src="./images/back-icon.png" /></code>
-
 <br/><br/>
 
 ### 😎 Tecnologías en las que soy bueno
@@ -53,4 +52,8 @@ Makefile   12 mins         ░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+### 📊 Tecnologías que más ocupé esta semana
 
+<!--START_SECTION:blog-->
+
+<!--END_SECTION:blog-->
