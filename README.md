@@ -1,4 +1,4 @@
-## Hola 👋, soy Vic
+## Hola 👋, soy [Vic](https://vico.dev)
 
 <a href="https://discord.gg/5dSmEzpY">
   <img align="left" alt="vico:dev Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
@@ -40,7 +40,7 @@ Hola soy Victor Aguilar soy backend developer y me gusta programar y bailar.
 <code><img alt="Backend Things" height="30px" src="./images/back-icon.png" /></code>
 <br/><br/>
 
-### 😎 Tecnologías en las que soy bueno
+### 📊 Tecnologías que más ocupé esta semana
 
 <!--START_SECTION:waka-->
 ```text
