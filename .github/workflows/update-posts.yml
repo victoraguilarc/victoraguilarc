@@ -1,10 +1,11 @@
-name: Update README posts
+name: Update README Posts
 
 on:
   workflow_dispatch:
   schedule:
     # Runs every 5 hours
     - cron: "* * * * *"
+
 jobs:
   update-posts:
     runs-on: ubuntu-latest
@@ -16,9 +17,11 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
-    - name: Actualizars posts
+    - name: Actualizar Posts
       run: |
         python main.py
       env:
         GITHUB_REPOSITORY: $GITHUB_REPOSITORY
         USER_GITHUB_TOKEN: ${{ secrets.USER_GITHUB_TOKEN }}
+
+    
