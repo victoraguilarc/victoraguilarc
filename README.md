@@ -55,5 +55,7 @@ Makefile   12 mins         ░░░░░░░░░░░░░░░░░�
 ### 📊 Tecnologías que más ocupé esta semana
 
 <!--START_SECTION:blog-->
-
+  - [Los Nativos Digitales](https://vico.dev/los-nativos-digitales/) - *03 Dec 2020* 
+  - [Sitios web estáticos vs. dinámicos](https://vico.dev/sitios-estaticos-vs-dinamicos/) - *29 Oct 2020* 
+  - [Trucos/Comandos de git que todo desarrollador debería conocer](https://vico.dev/trucos-de-git-que-todo-desarrollador-deberia-saber/) - *05 Oct 2020* 
 <!--END_SECTION:blog-->
