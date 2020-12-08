@@ -40,3 +40,10 @@ Hola soy Victor Aguilar soy backend developer y me gusta programar y bailar.
 <code><img alt="Backend Things" height="30px" src="./images/back-icon.png" /></code>
 
 <br/><br/>
+
+### 😎 Tecnologías en las que soy bueno
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
