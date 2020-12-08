@@ -1,4 +1,4 @@
-name: Update README stats
+name: Update README posts
 
 on:
   workflow_dispatch:
