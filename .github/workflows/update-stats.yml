@@ -3,9 +3,8 @@ name: Update README stats
 on:
   workflow_dispatch:
   schedule:
-    # Runs every 2 hours
-    # - cron: "0 */2 * * *"
-    - cron: "*/2 * * * *"
+    # Runs every 5 hours
+    - cron: "0 */5 * * *"
 jobs:
   update-readme:
     name: Update README
