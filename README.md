@@ -52,7 +52,7 @@ Makefile   12 mins         ░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-### 📊 Tecnologías que más ocupé esta semana
+### 📣 Últimos artículos en mi blog
 
 <!--START_SECTION:blog-->
   - [Los Nativos Digitales](https://vico.dev/los-nativos-digitales/) - *03 Dec 2020* 
