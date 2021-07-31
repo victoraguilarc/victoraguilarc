@@ -55,7 +55,7 @@ JSON     28 mins         ▒░░░░░░░░░░░░░░░░░�
 ### 📣 Últimos artículos en mi blog
 
 <!--START_SECTION:blog-->
+  - [YAML: Curso Intensivo](https://vico.dev/yaml/) - *31 Jul 2021* 
   - [Los Nativos Digitales](https://vico.dev/los-nativos-digitales/) - *18 Jul 2021* 
   - [Sitios web estáticos vs. dinámicos](https://vico.dev/sitios-web-estaticos-vs-dinamicos/) - *18 Jul 2021* 
-  - [Trucos/Comandos de git que todo desarrollador debería conocer](https://vico.dev/trucos-comandos-de-git-que-todo-desarrollador-deberia-conocer/) - *18 Jul 2021* 
 <!--END_SECTION:blog-->
