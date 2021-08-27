@@ -44,7 +44,7 @@ Hola soy Victor Aguilar soy backend developer y me gusta programar y bailar.
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+YAML   35 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 
