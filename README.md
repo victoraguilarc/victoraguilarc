@@ -55,7 +55,7 @@ Text     19 mins         ▒░░░░░░░░░░░░░░░░░�
 ### 📣 Últimos artículos en mi blog
 
 <!--START_SECTION:blog-->
-  - [YAML: Curso Intensivo](https://vico.dev/yaml/) - *31 Jul 2021* 
-  - [Los Nativos Digitales](https://vico.dev/los-nativos-digitales/) - *18 Jul 2021* 
-  - [Sitios web estáticos vs. dinámicos](https://vico.dev/sitios-web-estaticos-vs-dinamicos/) - *18 Jul 2021* 
+  - [Start here for a quick overview of everything you need to know](https://127.0.0.1:8100/welcome/) - *28 Sep 2021* 
+  - [Customizing your brand and design settings](https://127.0.0.1:8100/design/) - *28 Sep 2021* 
+  - [Writing and managing content in Ghost, an advanced guide](https://127.0.0.1:8100/write/) - *28 Sep 2021* 
 <!--END_SECTION:blog-->
