@@ -45,12 +45,12 @@ Hola soy Victor Aguilar soy backend developer y me gusta programar y bailar.
 <!--START_SECTION:waka-->
 
 ```text
-Python             13 hrs 37 mins  ██████████████▒░░░░░░░░░░   57.44 %
-YAML               3 hrs 49 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
-SQL                2 hrs 39 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
-Bash               50 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-Env File           43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
-CSV/TSV            40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
+Python             9 hrs 58 mins   ██████████████▓░░░░░░░░░░   59.12 %
+YAML               2 hrs 7 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.62 %
+SQL                2 hrs 6 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
+Env File           44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+CSV/TSV            40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+Bash               39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
 ```
 
 <!--END_SECTION:waka-->
