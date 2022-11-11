@@ -45,12 +45,12 @@ Hola soy Victor Aguilar soy backend developer y me gusta programar y bailar.
 <!--START_SECTION:waka-->
 
 ```text
-Python             14 hrs 11 mins  █████████████▒░░░░░░░░░░░   53.33 %
-Dart               7 hrs 40 mins   ███████▒░░░░░░░░░░░░░░░░░   28.86 %
-SQL                1 hr 21 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
-YAML               1 hr 19 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
-Markdown           56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-TypeScript         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Python             19 hrs 41 mins  ███████████████░░░░░░░░░░   59.61 %
+Dart               7 hrs 29 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.67 %
+YAML               2 hrs 3 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+SQL                1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+Markdown           56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
+TypeScript         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
 ```
 
 <!--END_SECTION:waka-->
