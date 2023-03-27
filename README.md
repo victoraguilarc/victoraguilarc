@@ -24,7 +24,7 @@ Hola soy Victor Aguilar soy backend developer y me gusta programar y bailar.
 
 ### 👨‍💻🏊‍♂ Actualmente estoy
 
-- Trabajando en ***[Parrot Software](https://parrotsoftware.io)***
+- Trabajando en ***[Fondeadora](https://fondeadora.com)***
 - Mentoreando programadores en patreon
 - Escribiendo en mi ***[Blog](https://vico.dev)***
 - Aprendiendo cosas de devops
