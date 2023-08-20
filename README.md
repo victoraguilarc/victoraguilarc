@@ -46,7 +46,7 @@ Hola soy Victor Aguilar soy backend developer y me gusta programar y bailar.
 
 ```txt
 Python             10 hrs 32 mins  ████████████████████████░   96.16 %
-HTML               21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+HTML               21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
 requirements.txt   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 TOML               1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 GitIgnore file     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
