@@ -24,10 +24,9 @@ Hola soy Victor Aguilar soy backend developer y me gusta programar y bailar.
 
 ### 👨‍💻🏊‍♂ Actualmente estoy
 
-- Trabajando en ***[Fondeadora](https://fondeadora.com)***
-- Mentoreando programadores en patreon
-- Escribiendo en mi ***[Blog](https://vico.dev)***
-- Aprendiendo cosas de devops
+- Trabajando en ***[Collectives](https://collectives.pro)***
+- [Mentoreando programadores](https://calendly.com/victor-aguilarc/catchup), 
+- Aprendiendo a crear productos bootstrap
 - Tomando clases de cosas que me gustan
 
 ### 😎 Tecnologías en las que soy bueno
