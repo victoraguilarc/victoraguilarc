@@ -44,11 +44,11 @@ Hola soy Victor Aguilar soy backend developer y me gusta programar y bailar.
 <!--START_SECTION:waka-->
 
 ```txt
-Dart                5 hrs 59 mins   ██████████████████████░░░   87.77 %
-YAML                28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
-JSON                8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-Gradle Kotlin DSL   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-XML                 3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+Dart                8 hrs 32 mins   ██████████████████████▓░░   91.10 %
+YAML                28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+JSON                8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Gradle Kotlin DSL   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+XML                 3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
