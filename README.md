@@ -1,4 +1,4 @@
-## Hola 👋, soy [Vic](https://vico.dev)
+## Hola 👋, soy [Vic]([https://vico.dev](https://www.self.so/victoraguilarc))
 
 <a href="https://discord.gg/5dSmEzpY">
   <img align="left" alt="vico:dev Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
@@ -24,7 +24,7 @@ Hola soy Victor Aguilar soy backend developer y me gusta programar y bailar.
 
 ### 👨‍💻🏊‍♂ Actualmente estoy
 
-- Trabajando en ***[Collectives](https://collectives.pro)***
+- Trabajando en ***[LlamitAI](https://llamitai.com)***
 - [Mentoreando programadores](https://calendly.com/victor-aguilarc/catchup), 
 - Aprendiendo a crear productos bootstrap
 - Tomando clases de cosas que me gustan
